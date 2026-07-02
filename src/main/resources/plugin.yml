@@ -1,0 +1,19 @@
+name: MythicStaffs
+version: '1.0'
+main: com.mythicstaff.MythicStaffPlugin
+api-version: '1.21'
+prefix: MythicStaffs
+description: Premium Fire Staff with combo spell mechanics
+commands:
+  mythicstaff:
+    description: MythicStaff admin commands
+    usage: /mythicstaff <give|help>
+    permission: mythicstaff.admin
+    aliases: [ms]
+  staff:
+    description: Get your staff
+    usage: /staff give [player]
+    permission: mythicstaff.admin
+permissions:
+  mythicstaff.admin:
+    default: op
