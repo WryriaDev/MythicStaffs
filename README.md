@@ -213,7 +213,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ## 💖 Credits
 
-- Developed with ❤️ by **Seyoria**
+- Developed with ❤️ by **Wryria**
 - Built for Paper/Spigot 1.21.x
 
 ---
